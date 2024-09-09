@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://khviad.github.io/PAX/sitemap.PAX.gz
